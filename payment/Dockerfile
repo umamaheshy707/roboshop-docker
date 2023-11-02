@@ -1,4 +1,4 @@
-FROM python:3.9.18-alpine3.18
+FROM python:3.9-alpine
 EXPOSE 8080
 USER root
 WORKDIR /app
